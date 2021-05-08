@@ -11,7 +11,7 @@ I`m Lazar from Macedonia, a designer and learning front end developer. I really 
 
 
 
-### Software Abilities
+## Software Abilities
 
 ∙ Figma
 
@@ -22,7 +22,7 @@ I`m Lazar from Macedonia, a designer and learning front end developer. I really 
 ∙ Visual Studio Code
 
 
-### Frontend Abilities
+## Frontend Abilities
 
 ∙ Responsive Website
 
