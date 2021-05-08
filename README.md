@@ -5,6 +5,11 @@
 ### Hi there 👋,I`m Lazar
 I`m Lazar from Macedonia, a designer and learning front end developer. I really love and enjoy coding and learning languages and frameworks. I also enjoy wireframing UI design.
 
+- 🌱 I’m currently learning JS 
+- 👯 I’m looking to collaborate on Html,Css,Scss,Bootstrap 
+- 💬 Ask me about Anything 
+
+
 
 ### Software Abilities
 
@@ -30,10 +35,6 @@ I`m Lazar from Macedonia, a designer and learning front end developer. I really 
 ∙ Bootstrap
 
 ∙ Javascript(Beginer)
-
-- 🌱 I’m currently learning JS 
-- 👯 I’m looking to collaborate on Html,Css,Scss,Bootstrap 
-- 💬 Ask me about Anything 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kapsarovL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lazar-kapsarov-b81143188/)  
