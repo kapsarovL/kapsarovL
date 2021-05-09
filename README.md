@@ -10,43 +10,48 @@ I`m Lazar from Macedonia, a designer and learning front end developer. I really 
 - 💬 Ask me about Anything 
 
 
+### Conect with me:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='22px'>](https://github.com/kapsarovL)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='22px'>][linkedin]
+</br>
+</br>
 
-## Software Abilities
+### Software Abilities:
 
 ∙ Figma
 
 ∙ Adobe Photoshop
 
 ∙ Adobe Illustrator
+</br>
+</br>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+</br>
+</br>
 
-∙ Visual Studio Code
+### Frontend Abilities:
+
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+</br>
+</br>
 
 
-## Frontend Abilities
 
-∙ Responsive Website
-
-∙ HTML 5
-
-∙ CSS3
-
-∙ SCSS
-
-∙ Bootstrap
-
-∙ Javascript(Beginer)
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kapsarovL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lazar-kapsarov-b81143188/)  
+ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapsarovL)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kapsarovL&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kapsarovL)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kapsarovL)  
 
 ![Profile views](https://gpvc.arturio.dev/kapsarovL)  
 
 
+[linkedin]: https://www.linkedin.com/in/lazar-kapsarov-b81143188/
