@@ -39,11 +39,10 @@ I`m Lazar from Macedonia, a designer and learning front end developer. I really 
 
 
 
- 
+ <h2 align="center"> Github Statistics 📈 </h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapsarovL)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2 align="center"> Github Statistics 📈 </h2>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kapsarovL&show_icons=true)  
 
