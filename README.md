@@ -44,6 +44,8 @@ I`m Lazar from Macedonia, a designer and learning front end developer. I really 
  <h2 align="center"> Github Statistics 📈 </h2>
  
  <h4 align="center">Top langs :tongue:</h4>
+ 
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapsarovL" alt="AnhellO :: Top Langs" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapsarovL)](https://github.com/anuraghazra/github-readme-stats)
 
