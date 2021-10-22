@@ -1,5 +1,5 @@
 
-
+<div align="center">
 ![Design and Development](https://github.com/kapsarovL/kapsarovL/blob/main/cover%20-%202.png)
 
 ### Hi there 👋,I`m Lazar
@@ -8,7 +8,7 @@ I`m Lazar from Macedonia, a designer and learning front end developer. I really 
 - 🌱 I’m currently Web Development on 
 - 👯 I’m looking to collaborate on Html,Css,Scss,Bootstrap 
 - 💬 Ask me about Anything 
-
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
