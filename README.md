@@ -47,11 +47,11 @@ I`m Lazar from Macedonia, a designer and learning front end developer. I really 
  
  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapsarovL" alt="AnhellO :: Top Langs" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapsarovL)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kapsarovL&show_icons=true)  
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kapsarovL&show_icons=true" alt="AnhellO :: Profile Stats" /></p>
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kapsarovL)  
