@@ -1,7 +1,9 @@
 
-<div align="center">
+
 ![Design and Development](https://github.com/kapsarovL/kapsarovL/blob/main/cover%20-%202.png)
 
+<div align="center">
+  
 ### Hi there 👋,I`m Lazar
 I`m Lazar from Macedonia, a designer and learning front end developer. I really love and enjoy coding and learning languages and frameworks. I also enjoy wireframing UI design.
 
