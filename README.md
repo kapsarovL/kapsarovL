@@ -5,13 +5,15 @@
 ### Hi there 👋,I`m Lazar
 I`m Lazar from Macedonia, a designer and learning front end developer. I really love and enjoy coding and learning languages and frameworks. I also enjoy wireframing UI design.
 
-- 🌱 I’m currently learning JS 
+- 🌱 I’m currently Web Development on 
 - 👯 I’m looking to collaborate on Html,Css,Scss,Bootstrap 
 - 💬 Ask me about Anything 
 
 
 ### Conect with me:
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+ <a href="https://www.linkedin.com/in/lazar-kapsarov/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lazar Kapsarov LinkedIn Profile" height="30" width="30">
+  </a>
 </br>
 </br>
 
