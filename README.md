@@ -27,7 +27,7 @@ I`m Lazar from Macedonia, a designer and learning front end developer. I really 
 </br>
 </br>
 </br>
-
+<div align="center">
 ### Languages and Tools 🛠
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -39,7 +39,7 @@ I`m Lazar from Macedonia, a designer and learning front end developer. I really 
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-
+</div>
 
 
 </br>
