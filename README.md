@@ -8,7 +8,7 @@
   
 
 
-*** 🌱 I’m currently Web Development on ***
+*** 🌱 I’m currently Web Development ***
   
 *** 👯 I’m looking to collaborate on Html,Css,Scss,Bootstrap *** 
   
