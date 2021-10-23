@@ -65,4 +65,4 @@ I`m Lazar from Macedonia, a designer and learning front end developer. I really 
 ![Profile views](https://gpvc.arturio.dev/kapsarovL)  
 
 
-[linkedin]: https://www.linkedin.com/in/lazar-kapsarov-b81143188/
+
