@@ -8,7 +8,7 @@
   
 
 
-*** 🌱 I’m currently Web Development ***
+*** 🌱 I’m currently Web Development on [Codecademy](https://www.codecademy.com/profiles/kapsarov) ***
   
 *** 👯 I’m looking to collaborate on Html,Css,Scss,Bootstrap *** 
   
