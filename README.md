@@ -6,7 +6,7 @@
   
    # Hi there 👋,I`m Lazar 
   
-I`m Lazar from Macedonia, a designer and learning front end developer. I really love and enjoy coding and learning languages and frameworks. I also enjoy wireframing UI design.
+
 
 *** 🌱 I’m currently Web Development on ***
   
