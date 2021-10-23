@@ -32,6 +32,7 @@
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-0078D6?style=flat-square&logo=linux&logoColor=ffffff)
+![Terminal](https://img.shields.io/badge/-Terminal-181717?style=flat-square&logo=terminal&__cf_chl_managed_tk__=pmd_XDJLaeDVmIAB4Tpce0N06FqEgGDSa9W1HqjxbIEH_HQ-1634952208-0-gqNtZGzNAyWjcnBszQn9)
 
 </div>
 
