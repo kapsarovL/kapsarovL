@@ -7,9 +7,9 @@
 ### Hi there 👋,I`m Lazar
 I`m Lazar from Macedonia, a designer and learning front end developer. I really love and enjoy coding and learning languages and frameworks. I also enjoy wireframing UI design.
 
-- 🌱 I’m currently Web Development on 
-- 👯 I’m looking to collaborate on Html,Css,Scss,Bootstrap 
-- 💬 Ask me about Anything 
+ 🌱 I’m currently Web Development on 
+ 👯 I’m looking to collaborate on Html,Css,Scss,Bootstrap 
+ 💬 Ask me about Anything 
 </div>
 
 <h3 align="center">Connect with me:</h3>
