@@ -1,6 +1,10 @@
 
 
-<p align="center"><img src="https://github.com/kapsarovL/kapsarovL/blob/main/cover%20-%202.png" alt="baner"></p>
+<p align="center"><img src="https://github.com/kapsarovL/kapsarovL/blob/main/cover%20-%202.png" alt="baner">
+
+</p>
+
+
 
 <div align="center">
   
@@ -13,8 +17,6 @@
 *** 👯 I’m looking to collaborate on Html,Css,Scss,Bootstrap *** 
   
 *** 💬 Ask me about Anything ***
-  
-  <a href="https://app.daily.dev/kapsarov"><img src="https://api.daily.dev/devcards/29bfe841890e413784effff2e9eeedcc.png?r=8xe" width="400" alt="kapsarovL's Dev Card"/></a>
   
 </div>
 
