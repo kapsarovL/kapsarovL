@@ -14,6 +14,8 @@
   
 *** 💬 Ask me about Anything ***
   
+  <a href="https://app.daily.dev/kapsarov"><img src="https://api.daily.dev/devcards/29bfe841890e413784effff2e9eeedcc.png?r=8xe" width="400" alt="kapsarovL's Dev Card"/></a>
+  
 </div>
 
 </br>
