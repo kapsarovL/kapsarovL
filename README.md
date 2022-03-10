@@ -1,6 +1,6 @@
 
 
-<p align="center"><img src="https://github.com/kapsarovL/kapsarovL/blob/main/cover%20-%202.png" alt="baner">
+<p align="center"><img src="https://github.com/kapsarovL/kapsarovL/blob/main/header.png" alt="baner">
 
 </p>
 
