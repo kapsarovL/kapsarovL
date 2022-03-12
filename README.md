@@ -59,12 +59,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kapsarovL&show_icons=true" alt="AnhellO :: Profile Stats" /></p>
 
-<h2 align="center">My WakaTime Stats 📊:</h2>
-
-
-<p align="center">
-<img src="https://wakatime.com/share/@e595da90-fe5b-4ace-9a1e-5cc79148e056/156d5a9b-bf1d-4e0b-bbc4-7b67b8d61ed1.svg" alt="waka=time">
-</p>
 
 
 <div align=center>
