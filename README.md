@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/e595da90-fe5b-4ace-9a1e-5cc79148e056.svg)](https://wakatime.com/@e595da90-fe5b-4ace-9a1e-5cc79148e056)
+
 
 <p align="center"><img src="https://github.com/kapsarovL/kapsarovL/blob/main/header.png" alt="baner">
 
@@ -9,7 +9,7 @@
 <div align="center">
   
    # Hi there 👋,I`m Lazar 
-  
+ [![wakatime](https://wakatime.com/badge/user/e595da90-fe5b-4ace-9a1e-5cc79148e056.svg)](https://wakatime.com/@e595da90-fe5b-4ace-9a1e-5cc79148e056) 
 
 
 *** 🌱 I’m currently learning Web Development on [Codecademy](https://www.codecademy.com/profiles/kapsarov) ***
