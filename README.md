@@ -13,7 +13,6 @@
    # Hi there 👋,I`m Lazar 
  
 
-*** 🌱 I’m currently learning Web Development on [Codecademy](https://www.codecademy.com/profiles/kapsarov) ***
   
 <p align="center"><img src="https://github.com/kapsarovL/kapsarovL/blob/main/header.png" alt="baner"></p>
  
