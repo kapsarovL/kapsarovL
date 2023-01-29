@@ -10,7 +10,7 @@
 
 <div align="center">
   
- <h1 align="center">Hi 👋, I'm a Frontend Developer and UI Designer</h1>
+ <h1 align="center">Hi 👋, I'm a Frontend Designer</h1>
  <h3 align="center">Architect and build frontend web client side and solve people's problems...</h3>
  
  [![wakatime](https://wakatime.com/badge/user/e595da90-fe5b-4ace-9a1e-5cc79148e056.svg)](https://wakatime.com/@e595da90-fe5b-4ace-9a1e-5cc79148e056) 
