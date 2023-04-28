@@ -1,91 +1,53 @@
 
-
-
-
-
-
-
- 
- 
-
-<div align="center">
   
- <h1 align="center">Hi 👋, I'm a Frontend Web Designer</h1>
- <h3 align="center">Architect and build frontend web client side and solve people's problems...</h3>
+ ## Hi 👋, I'm a Lazar
+
+
+#### 🚀 About Me
+
+A front-end developer based in Macedonia with a passion for creating beautiful and functional websites. <br>
+I love exploring new technologies and experimenting with different design patterns to create engaging<br>
+user experiences.
  
- [![wakatime](https://wakatime.com/badge/user/e595da90-fe5b-4ace-9a1e-5cc79148e056.svg)](https://wakatime.com/@e595da90-fe5b-4ace-9a1e-5cc79148e056) 
+  
+  
+  #### Tech Stack
+  <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="left" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  
+  
+  
+  
+  
+  #### 📚 Frameworks
+  <img align="left" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img align="left" alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
  
- 🌱 I’m currently learning **ITAcademy Frontend JavaScript Development**
-
-</div>
-
-</br>
-</br>
-</br>
-</br>
-<div align="center">
-
- <h3 align="center">Languages and 🛠Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+  <img align="left" width="27%" src="https://github-readme-stats.vercel.app/api?username=kapsarovL&show_icons=true&theme=tokyonight" alt="AnhellO :: Profile Stats" />
+  <img width="18%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapsarovL&show_icons=true&theme=tokyonight" alt="AnhellO :: Top Langs" />
 
 
 
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/-Linux-0078D6?style=flat-square&logo=linux&logoColor=ffffff)
-![Terminal](https://img.shields.io/badge/-Terminal-181717?style=flat-square&logo=terminal&__cf_chl_managed_tk__=pmd_XDJLaeDVmIAB4Tpce0N06FqEgGDSa9W1HqjxbIEH_HQ-1634952208-0-gqNtZGzNAyWjcnBszQn9)
+ <!--[![wakatime](https://wakatime.com/badge/user/e595da90-fe5b-4ace-9a1e-5cc79148e056.svg)](https://wakatime.com/@e595da90-fe5b-4ace-9a1e-5cc79148e056) -->
 
-</div>
+<!--<img src="https://github-profile-trophy.vercel.app/?username=kapsarovl&show_icons=true&theme=cobalt" alt="kapsarovl" />-->
 
-
-</br>
-</br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kapsarovl&show_icons=true&theme=tokyonight" alt="kapsarovl" />
 
 
 
- <h2 align="center"> Github Statistics 📈 </h2>
- 
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=kapsarovl&label=Profile%20views&color=0e75b6&style=flat" alt="kapsarovl" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kapsarovl" alt="kapsarovl" /></a> </p>
- 
- <h4 align="center">Top langs :tongue:</h4>
- 
- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapsarovL" alt="AnhellO :: Top Langs" /></p>
-
-
-
-<h2 align="center">Github stats :bar_chart:</h2>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kapsarovL&show_icons=true" alt="AnhellO :: Profile Stats" /></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kapsarovl&" alt="kapsarovl" /></p>
-
-
-
-
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
- 
-
-
-</div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/kapsarovL/count.svg" />  
-</p>
   
    
   
-  <h3 align="center">Connect with me:</h3>
-  <div align="center">
+  <h3 align="left">Connect with me:</h3>
+  <div align="left">
  
- <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lazar-kapsarov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lazar-kapsarov/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/lazarkapsarov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lazarkapsarov/" height="30" width="40" /></a>
-<a href="https://discord.gg/#3002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3002" height="30" width="40" />
+ <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/lazar-kapsarov/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://fb.com/https://www.facebook.com/lazarkapsarov/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="https://www.facebook.com/lazarkapsarov/" /></a>
+<a href="https://discord.gg/#3002" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"  />
 
   </a>
 </p>
@@ -93,9 +55,24 @@
   
 </div>
 
+<div align="left">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+ 
+
+
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="left" >   
+  <img src="https://profile-counter.glitch.me/kapsarovL/count.svg" />  
+</p>
 
 
 
+🌱 I’m currently learning **ITAcademy Frontend JavaScript Development**
+
+ 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapsarovl&label=Profile%20views&color=0e75b6&style=flat" alt="kapsarovl" /> </p>
 
 
 
