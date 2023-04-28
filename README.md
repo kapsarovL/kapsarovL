@@ -25,8 +25,8 @@ user experiences.
   <img align="left" alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
  
-  <img align="left" width="37%" src="https://github-readme-stats.vercel.app/api?username=kapsarovL&show_icons=true&theme=tokyonight" alt="AnhellO :: Profile Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapsarovL&show_icons=true&theme=tokyonight" alt="AnhellO :: Top Langs" />
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kapsarovL&show_icons=true&theme=tokyonight" alt="AnhellO :: Profile Stats" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapsarovL&show_icons=true&theme=tokyonight" alt="AnhellO :: Top Langs" />
 
 
 
