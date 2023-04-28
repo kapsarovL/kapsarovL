@@ -34,7 +34,7 @@ user experiences.
 
 <!--<img src="https://github-profile-trophy.vercel.app/?username=kapsarovl&show_icons=true&theme=cobalt" alt="kapsarovl" />-->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kapsarovl&show_icons=true&theme=tokyonight" alt="kapsarovl" />
+<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=kapsarovl&show_icons=true&theme=tokyonight" alt="kapsarovl" />
 
 
 
