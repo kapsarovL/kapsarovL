@@ -39,28 +39,11 @@ user experiences.
 
 
   
-   
-  
-  <h3 align="left">Connect with me:</h3>
-  <div align="left">
- 
- <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lazar-kapsarov/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://fb.com/https://www.facebook.com/lazarkapsarov/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="https://www.facebook.com/lazarkapsarov/" /></a>
-<a href="https://discord.gg/#3002" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"  />
-
-  </a>
-</p>
-
-  
-</div>
-
-<div align="left">
-  <h3><b>📍 Profile Visitor Count</b></h3>
  
 
+  
 
-</div>
+
     
 <!-- retro visitor counter -->  
 <p align="left" >   
