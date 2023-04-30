@@ -53,7 +53,7 @@ user experiences.
 
 
 
-🌱 I’m currently learning **ITAcademy Frontend JavaScript Development**
+🌱 I’m currently learning on **ITAcademy Frontend JavaScript Development**
 
  
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapsarovl&label=Profile%20views&color=0e75b6&style=flat" alt="kapsarovl" /> </p>
