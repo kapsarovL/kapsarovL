@@ -51,7 +51,7 @@ user experiences.
   <img src="https://profile-counter.glitch.me/kapsarovL/count.svg" />  
 </p>
 <p align="center">
-<img src="https://frontendmasters.com/u/kapsarov/" />
+<img src="https://frontendmasters.com/u/kapsarov/" width="50%" />
 </p>
 
 
