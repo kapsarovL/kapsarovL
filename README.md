@@ -50,7 +50,7 @@ user experiences.
 <p align="left" >   
   <img src="https://profile-counter.glitch.me/kapsarovL/count.svg" />  
 </p>
-<p align="center">
+<p align="left">
 <img src="https://frontendmasters.com/u/kapsarov/" width="50%" />
 </p>
 
