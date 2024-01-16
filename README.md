@@ -50,7 +50,9 @@ user experiences.
 <p align="left" >   
   <img src="https://profile-counter.glitch.me/kapsarovL/count.svg" />  
 </p>
-
+<p align="center">
+<img src="https://frontendmasters.com/u/kapsarov/" />
+</p>
 
 
 🌱 I’m currently learning on **ITAcademy Frontend JavaScript Development**
