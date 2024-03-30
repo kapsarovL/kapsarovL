@@ -5,7 +5,7 @@
 
 #### 🚀 About Me
 
-A front-end developer based in Macedonia with a passion for creating beautiful and functional websites. <br>
+A front-end developer based in Macedonia passionate about creating beautiful and functional websites. <br>
 I love exploring new technologies and experimenting with different design patterns to create engaging<br>
 user experiences.
  
@@ -31,7 +31,7 @@ user experiences.
 
 
 
- <!--[![wakatime](https://wakatime.com/badge/user/e595da90-fe5b-4ace-9a1e-5cc79148e056.svg)](https://wakatime.com/@e595da90-fe5b-4ace-9a1e-5cc79148e056) -->
+ [![wakatime](https://wakatime.com/badge/user/e595da90-fe5b-4ace-9a1e-5cc79148e056.svg)](https://wakatime.com/@e595da90-fe5b-4ace-9a1e-5cc79148e056)
 
 <!--<img src="https://github-profile-trophy.vercel.app/?username=kapsarovl&show_icons=true&theme=cobalt" alt="kapsarovl" />-->
 
