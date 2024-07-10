@@ -37,6 +37,8 @@ user experiences.
 
 <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=kapsarovl&show_icons=true&theme=tokyonight" alt="kapsarovl" />
 
+<figure><img src="https://wakatime.com/share/@KapsarovDev/06003dad-fd60-4b55-9048-2dc03aa5eae8.svg"></img></figure>
+
 
 
   
