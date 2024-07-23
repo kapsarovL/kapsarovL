@@ -1,68 +1,38 @@
+# 👋 Hi, I'm Lazar Kapsarov
+Frontend Developer
+
+## About me
+My goal is to create captivating online experiences that deeply resonate with users. Fueled by a passion for design and unwavering dedication to excellence, I stand at the intersection of innovation and artistry. I don't just see code; I see potential. My unique ability to blend technical requirements with user-centric design principles results in a powerful, persuasive, and premium digital presence.
+
+##  Technical Skills  🛠️
+- **Languages:** HTML5, CSS3, JavaScript, TypeScript
+- **Frameworks & Libraries:** Bootstrap, Tailwindcss, React, Node.js, Express.js, API
+- **Preprocessor:** POSTCSS, SCSS
+- **Tools & Platforms:** GitHub, Git, Npm, Netlify, Docker
+- **Design Tools:** Figma, Adobe Photoshop, Adobe Illustrator 
+
+## Education  🎓
+- **[Frontend Masters](https://frontendmasters.com/):** Forever !!!
+- **[ITAcademy by LINKgroup](https://www.it-akademija.com/):** Certified JavaScript Developer, Frontend JavaScript Development (November 2022 - September 2023)
+- **[Codecademy](https://www.codecademy.com/):** Associate's degree, Web Design Courses (July 2020 - June 2022)
+- **[Scrimba](https://v2.scrimba.com/home):** Certified UI Designer, UI Design Bootcamp Course (June 2020 - May 2021)
+
+## Professional Goals  🚀
+
+- **Enhance Technical Expertise:** Continuously improve my proficiency in HTML5, CSS3, and JavaScript, and expand my knowledge of modern frameworks and libraries.
+- **Master Full-Stack Development:** Gain a comprehensive understanding of backend technologies, particularly Node.js and Express.js, to become a versatile full-stack developer.
+
+## Contact with me 📫
+- [Email](mailto:kapsarovlazar@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/lazar-kapsarov)
+
+Thank you for visiting my profile! Feel free to reach out if you have any questions or want to collaborate on a project. Let`s connect! 🌍
 
   
- ## Hi 👋, I'm a Lazar
-
-
-#### 🚀 About Me
-
-A front-end developer based in Macedonia passionate about creating beautiful and functional websites. <br>
-I love exploring new technologies and experimenting with different design patterns to create engaging<br>
-user experiences.
- 
-  
-  
-  #### 📋 Languages
-  <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="left" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  
-  #### Preprocessor
-  <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-  <img alt="PostCSS" src="https://img.shields.io/badge/postcss-%23323330.svg?style=for-the-badge&logo=postcss&logoColor=red" />
-  
-  
-  
-  #### 📚 Frameworks
-  <img align="left" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img align="left" alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-  <img alt="React" src="https://img.shields.io/badge/react-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white" />
- 
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kapsarovL&show_icons=true&theme=tokyonight" alt="AnhellO :: Profile Stats" />
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapsarovL&show_icons=true&theme=tokyonight" alt="AnhellO :: Top Langs" />
-
-
-
- [![wakatime](https://wakatime.com/badge/user/e595da90-fe5b-4ace-9a1e-5cc79148e056.svg)](https://wakatime.com/@e595da90-fe5b-4ace-9a1e-5cc79148e056)
-
-<!--<img src="https://github-profile-trophy.vercel.app/?username=kapsarovl&show_icons=true&theme=cobalt" alt="kapsarovl" />-->
-
-<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=kapsarovl&show_icons=true&theme=tokyonight" alt="kapsarovl" />
-
-<figure><img src="https://wakatime.com/share/@KapsarovDev/06003dad-fd60-4b55-9048-2dc03aa5eae8.svg"></img></figure>
-
-
-
-  
- 
-
-  
-
 
     
 <!-- retro visitor counter -->  
 <p align="left" >   
   <img src="https://profile-counter.glitch.me/kapsarovL/count.svg" />  
-</p>
-
-
-
-
-
- 
+</p> 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapsarovl&label=Profile%20views&color=0e75b6&style=flat" alt="kapsarovl" /> </p>
-
-
-
-
