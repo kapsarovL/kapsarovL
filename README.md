@@ -25,6 +25,8 @@ My goal is to create captivating online experiences that deeply resonate with us
 ## Contact with me 📫
 - [Email](mailto:kapsarovlazar@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/lazar-kapsarov)
+- [Twitter](https://x.com/kapsarovlazar)
+
 
 Thank you for visiting my profile! Feel free to reach out if you have any questions or want to collaborate on a project. Let`s connect! 🌍
 
