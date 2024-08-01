@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lazar Kapsarov
+# 👋 Hi, I'm Lazar
 Frontend | Web Developer
 
 ## About me
