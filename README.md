@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Lazar
-Frontend | Web Developer
+# 👋
+<img src="https://github.com/kapsarovL/kapsarovL/blob/cd4ab24507035a2699e2c548414d508aee5b713a/github-bg.png" />
 
 ## About me
 My goal is to create captivating online experiences that deeply resonate with users. Fueled by a passion for design and unwavering dedication to excellence, I stand at the intersection of innovation and artistry. I don't just see code; I see potential. My unique ability to blend technical requirements with user-centric design principles results in a powerful, persuasive, and premium digital presence.
