@@ -6,9 +6,11 @@ My goal is to create captivating online experiences that deeply resonate with us
 
 ##  Technical Skills  🛠️
 - **Languages:** HTML5, CSS3, JavaScript, TypeScript
-- **Frameworks & Libraries:** Bootstrap, Tailwindcss, React, Node.js, Express.js, API
+- **Frameworks & Libraries:** Bootstrap, Tailwind CSS, React.js, Next.js, Shadcn UI, Node.js, Express.js, API`S
 - **Preprocessor:** POSTCSS, SCSS
-- **Tools & Platforms:** GitHub, Git, Npm, Netlify, Docker
+- **Database:** Supabase, PostgreSQL, Prisma
+- **Tools & Platforms:** GitHub, Git, Npm, Vite, Netlify, Docker, Vercel
+- **Animations:** Framer-Motion, GSAP, Three.js
 - **Design Tools:** Figma, Adobe Photoshop, Adobe Illustrator 
 
 ## Education  🎓
