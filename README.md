@@ -37,6 +37,7 @@ Thank you for visiting my profile! Feel free to reach out if you have any questi
     
 <!-- retro visitor counter -->  
 <p align="left" >   
-  <img src="https://profile-counter.glitch.me/kapsarovL/count.svg" />  
+  
+  <img src="https://wakatime.com/badge/user/e595da90-fe5b-4ace-9a1e-5cc79148e056.svg" />
 </p> 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapsarovl&label=Profile%20views&color=0e75b6&style=flat" alt="kapsarovl" /> </p>
