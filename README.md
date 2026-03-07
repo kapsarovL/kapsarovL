@@ -1,31 +1,44 @@
 # 👋
-<img src="https://github.com/kapsarovL/kapsarovL/blob/cd4ab24507035a2699e2c548414d508aee5b713a/github-bg.png" />
+
+# Lazar Kapsarov — Frontend Engineer
 
 ## About me
-My goal is to create captivating online experiences that deeply resonate with users. Fueled by a passion for design and unwavering dedication to excellence, I stand at the intersection of innovation and artistry. I don't just see code; I see potential. My unique ability to blend technical requirements with user-centric design principles results in a powerful, persuasive, and premium digital presence.
 
-##  Technical Skills  🛠️
-- **Languages:** HTML5, CSS3, JavaScript, TypeScript
-- **Frameworks & Libraries:** Bootstrap, Tailwind CSS, React.js, Next.js, Shadcn UI, Node.js, Express.js, API`S
-- **Preprocessor:** POSTCSS, SCSS
-- **Database:** Supabase, PostgreSQL, Prisma
-- **Tools & Platforms:** GitHub, Git, Npm, Vite, Netlify, Docker, Vercel
-- **Animations:** Framer-Motion, GSAP, Three.js
-- **Design Tools:** Figma, Adobe Photoshop, Adobe Illustrator 
+8 years keeping systems running.  
+5 in IT infrastructure. 3 building frontends that perform like infrastructure.
 
-## Education  🎓
-- **[Frontend Masters](https://frontendmasters.com/):** Forever !!!
-- **[ITAcademy by LINKgroup](https://www.it-akademija.com/):** Certified JavaScript Developer, Frontend JavaScript Development (November 2022 - September 2023)
-- **[Codecademy](https://www.codecademy.com/):** Associate's degree, Web Design Courses (July 2020 - June 2022)
-- **[Scrimba](https://v2.scrimba.com/home):** Certified UI Designer, UI Design Bootcamp Course (June 2020 - May 2021)
+Most frontend engineers learned the web from tutorials.  
+I learned it from the other side servers, networks, and production 
+failures at 2AM. That background shows up directly in my code.
 
-## Professional Goals  🚀
+## Stack
 
-- **Enhance Technical Expertise:** Continuously improve my proficiency in HTML5, CSS3, and JavaScript, and expand my knowledge of modern frameworks and libraries.
-- **Master Full-Stack Development:** Gain a comprehensive understanding of backend technologies, particularly Node.js and Express.js, to become a versatile full-stack developer.
+**Core:** Next.js · React 19 · TypeScript · Node.js  
+**Styling:** Tailwind CSS · Shadcn UI · Framer Motion  
+**Data:** PostgreSQL · Prisma · Supabase  
+**Testing:** Playwright · Vitest  
+**Infra:** Vercel · Docker · GitHub Actions · CI/CD  
+**Design:** Figma · Adobe Suite  
+
+---
+
+## What I've shipped
+
+→ Cut LCP from 5s → 1.5s on a production retail platform  
+→ Drove 25% increase in client sales through rendering optimisation  
+→ Reduced feature delivery time by 30% with modular TypeScript component libraries  
+→ Achieved 90% test coverage on checkout and login flows with Playwright + Vitest  
+
+---
+
+## Currently
+
+Open to full-time frontend or full-stack roles with EU/US companies.  
+Remote or hybrid.
 
 ## Contact with me 📫
-- [Email](mailto:kapsarovlazar@gmail.com)
+- [portfolio](https://www.lazarkapsarov.com)
+- [Email](mailto:contact@lazarkapsarov.com)
 - [LinkedIn](https://www.linkedin.com/in/lazar-kapsarov)
 - [Twitter](https://x.com/kapsarovlazar)
 
@@ -33,11 +46,3 @@ My goal is to create captivating online experiences that deeply resonate with us
 Thank you for visiting my profile! Feel free to reach out if you have any questions or want to collaborate on a project. Let`s connect! 🌍
 
   
-
-    
-<!-- retro visitor counter -->  
-<p align="left" >   
-  
-  <img src="https://wakatime.com/badge/user/e595da90-fe5b-4ace-9a1e-5cc79148e056.svg" />
-</p> 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapsarovl&label=Profile%20views&color=0e75b6&style=flat" alt="kapsarovl" /> </p>
