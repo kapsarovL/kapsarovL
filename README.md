@@ -1,48 +1,87 @@
 # 👋
 
-# Lazar Kapsarov — Frontend Engineer
+---
 
-## About me
+🌐 Online Profiles
 
-8 years keeping systems running.  
-5 in IT infrastructure. 3 building frontends that perform like infrastructure.
-
-Most frontend engineers learned the web from tutorials.  
-I learned it from the other side servers, networks, and production 
-failures at 2AM. That background shows up directly in my code.
-
-## Stack
-
-**Core:** Next.js · React 19 · TypeScript · Node.js  
-**Styling:** Tailwind CSS · Shadcn UI · Framer Motion  
-**Data:** PostgreSQL · Prisma · Supabase  
-**Testing:** Playwright · Vitest  
-**Infra:** Vercel · Docker · GitHub Actions · CI/CD  
-**Design:** Figma · Adobe Suite  
+[portfolio](https://www.lazarkapsarov.com) | [LinkedIn](https://www.linkedin.com/in/lazar-kapsarov) | [Twitter](https://x.com/kapsarovlazar)
 
 ---
 
-## What I've shipped
+## 📡 Lazar Kapsarov
 
-→ Cut LCP from 5s → 1.5s on a production retail platform  
-→ Drove 25% increase in client sales through rendering optimisation  
-→ Reduced feature delivery time by 30% with modular TypeScript component libraries  
-→ Achieved 90% test coverage on checkout and login flows with Playwright + Vitest  
+**Frontend Engineer** | Next.js | React 19 | TypeScript
+
+I build fast, maintainable web apps with Next.js, React 19, and TypeScript.
+Three years of frontend contracting across EU and US clients
+always remote, always production.
 
 ---
 
-## Currently
+## What I've Shipped
+
+| Result        | How                  | Technical Lever                                                |
+| :------------ | :------------------- | :------------------------------------------------------------- |
+| `LCP`         | `cut from 5s → 1.5s` | Transition to RSC-first architecture & image priority mapping. |
+| `Conversion`  | `+25% Sales`         | Eliminated layout shifts (CLS) and optimized checkout TBT.     |
+| `Velocity`    | `30% Faster`         | Built a strictly-typed Design System using Tailwind 4 + Biome. |
+| `Reliability` | `90% Coverage`       | Playwright E2E smoke tests for all "money paths."              |
+
+---
+
+🛠️ Featured GitHub Repositories
+
+### [StoreFront — E-Commerce Platform](https://e-commerce-nextjs16.vercel.app/)
+
+`Next.js 16` `React 19` `TypeScript` `Drizzle ORM` `Neon` `Clerk` `Stripe` `Zustand`
+
+Production-ready storefront covering the full e-commerce loop: product catalog, cart, and Stripe Checkout. Sub-100ms catalog pages via Server Component–first architecture with zero client JS on the product grid utilizing React Server Components. Idempotent Stripe webhook handlers, snapshotted order items, and integer-cent pricing throughout — no float precision bugs at the payment boundary.
+
+---
+
+### [GitHub Workspace Tracker](https://github-dashboard-beige.vercel.app/)
+
+`Next.js 15` `TypeScript` `PostgreSQL` `Prisma` `Auth.js` `GitHub Actions`
+
+Full-stack analytics platform with GitHub OAuth, repository health metrics, and multi-format data exports. CI/CD pipeline via GitHub Actions. **44 tests passing across 6 suites.**
+
+---
+
+### [Prismaflux Media](https://prismaflux-media.com/)
+
+> _Details coming — currently in active development._
+
+---
+
+### [UpProfile](https://pitch-perfect-delta.vercel.app/)
+
+> _Details coming — currently in active development._
+
+---
+
+## 🏗️ Technical Stack & Workflow
+
+**Core:** Next.js | React 19 | TypeScript | Node.js
+
+**UI/UX:** Tailwind CSS | Shadcn UI | Framer Motion | Figma
+
+**State & Data:** PostgreSQL | Prisma | Supabase | Neon
+
+**Infra:** Vercel | Docker | GitHub Actions | CI/CD | Linux
+
+**Tooling:** Neovim(LazyVim) | Biome (Lint/Format) | Playwright | Vitest
+
+---
+
+## 🧠 Engineering Principles
+
+1. The 100ms Rule: If an interaction takes longer than 100ms, it needs a transition or an optimization.
+2. Type Safety is Documentation: If it isn`t typed in TypeScript, it's a liability.
+3. Ship Lean: Prefer Biome over ESLint for speed, prefer RSC over Client Components for weight.
+
+## 📡 Currently
 
 Open to full-time frontend or full-stack roles with EU/US companies.  
 Remote or hybrid.
 
-## Contact with me 📫
-- [portfolio](https://www.lazarkapsarov.com)
-- [Email](mailto:contact@lazarkapsarov.com)
-- [LinkedIn](https://www.linkedin.com/in/lazar-kapsarov)
-- [Twitter](https://x.com/kapsarovlazar)
-
-
 Thank you for visiting my profile! Feel free to reach out if you have any questions or want to collaborate on a project. Let`s connect! 🌍
-
-  
