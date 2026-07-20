@@ -1,87 +1,73 @@
-# 👋
-
----
-
-🌐 Online Profiles
-
-[portfolio](https://www.lazarkapsarov.com) | [LinkedIn](https://www.linkedin.com/in/lazar-kapsarov) | [Twitter](https://x.com/kapsarovlazar)
-
----
-
-## 📡 Lazar Kapsarov
+# 👋  Hey, I'm Lazar
 
 **Frontend Engineer** | Next.js | React 19 | TypeScript
 
-I build fast, maintainable web apps with Next.js, React 19, and TypeScript.
-Three years of frontend contracting across EU and US clients
-always remote, always production.
+[portfolio](https://www.lazarkapsarov.com) | [LinkedIn](https://www.linkedin.com/in/lazar-kapsarov) | [Twitter](https://x.com/kapsarovlazar)
 
----
 
-## What I've Shipped
+I spent five years in IT support keeping office systems, networks, and hardware alive the kind of job where you learn what "production is down" feels like before you ever write a line of application code. In 2022 I retrained as a JavaScript developer, and since then I've been building web apps the way I used to keep systems running: measure first, type everything, assume things will fail.
 
-| Result        | How                  | Technical Lever                                                |
-| :------------ | :------------------- | :------------------------------------------------------------- |
-| `LCP`         | `cut from 5s → 1.5s` | Transition to RSC-first architecture & image priority mapping. |
-| `Conversion`  | `+25% Sales`         | Eliminated layout shifts (CLS) and optimized checkout TBT.     |
-| `Velocity`    | `30% Faster`         | Built a strictly-typed Design System using Tailwind 4 + Biome. |
-| `Reliability` | `90% Coverage`       | Playwright E2E smoke tests for all "money paths."              |
+In 2025 I founded PrismaFlux Media, my own studio, where I build and ship client projects end to end: schema design, API routes, auth, payments, deployment.
 
----
 
-🛠️ Featured GitHub Repositories
 
-### [StoreFront — E-Commerce Platform](https://e-commerce-nextjs16.vercel.app/)
+## Numbers I can actually back up
+ 
+I don't list metrics I can't reproduce. Run the Lighthouse reports yourself:
+ 
+| What | Score | Where |
+| --- | --- | --- |
+| My portfolio (desktop) | 100 / 100 / 100 / 100 | [lazarkapsarov.com](https://www.lazarkapsarov.com) |
+| StoreFront (mobile) | 100 Perf · 96 A11y · 100 BP · 99 SEO | [live site](https://e-commerce-nextjs16.vercel.app/) — LCP 1.4s, CLS 0 |
 
-`Next.js 16` `React 19` `TypeScript` `Drizzle ORM` `Neon` `Clerk` `Stripe` `Zustand`
 
-Production-ready storefront covering the full e-commerce loop: product catalog, cart, and Stripe Checkout. Sub-100ms catalog pages via Server Component–first architecture with zero client JS on the product grid utilizing React Server Components. Idempotent Stripe webhook handlers, snapshotted order items, and integer-cent pricing throughout — no float precision bugs at the payment boundary.
 
----
+## 🛠️ What I've built
+ 
+### [StoreFront — full-stack e-commerce](https://e-commerce-nextjs16.vercel.app/)
+ 
+`Next.js (App Router)` `React 19` `TypeScript` `Drizzle ORM` `Neon` `Clerk` `Stripe`
+ 
+The full e-commerce loop, built independently: catalog, cart, Stripe Checkout.
+I designed the database schema, wrote the API routes for cart logic and payment
+webhooks, and wired up Clerk auth. The parts I'm most proud of are the boring
+ones idempotent webhook handlers and integer-cent pricing, because payment
+code is where float bugs go to ruin your week.
+ 
+### Kalchev Family Winery
+ 
+`Next.js` `React` `TypeScript` `Drizzle ORM` `Neon PostgreSQL`
+ 
+A brand website for a local family winery, built and launched end to end
+through PrismaFlux Media and deployed on Vercel in July 2026. Real client,
+real deadline, real content.
+ 
+### [PrismaFlux Media](https://prismaflux-media.com/)
+ 
+My studio's own site. I migrated it off WordPress/Hostinger onto Next.js and
+Vercel, including the full DNS move across Cloudflare and Hostinger the
+[blog](https://prismaflux-media.com/blog) has write-ups on how I work.
 
-### [GitHub Workspace Tracker](https://github-dashboard-beige.vercel.app/)
 
-`Next.js 15` `TypeScript` `PostgreSQL` `Prisma` `Auth.js` `GitHub Actions`
 
-Full-stack analytics platform with GitHub OAuth, repository health metrics, and multi-format data exports. CI/CD pipeline via GitHub Actions. **44 tests passing across 6 suites.**
+## 🏗️ Stack
+ 
+**Daily drivers:** Next.js (App Router) · React 19 · TypeScript · Tailwind CSS v4 · Shadcn/UI
+**Data & payments:** Drizzle ORM · Neon PostgreSQL · Clerk · Stripe
+**Tooling:** Vercel · GitHub Actions · Playwright · Vitest · Biome · Neovim (LazyVim)
+**Currently learning:** Node.js and SQL fundamentals heading toward full-stack, honestly not there yet
 
----
 
-### [Prismaflux Media](https://prismaflux-media.com/)
 
-> _Details coming — currently in active development._
+## 🧠 How I think about code
+ 
+1. **100ms or explain yourself** — interactions slower than that need a transition or an optimization.
+2. **Types are documentation** — if it isn't typed, it's a liability someone inherits.
+3. **Ship lean** — Server Components over client JS, Biome over ESLint, measure before optimizing.
 
----
 
-### [UpProfile](https://pitch-perfect-delta.vercel.app/)
 
-> _Details coming — currently in active development._
-
----
-
-## 🏗️ Technical Stack & Workflow
-
-**Core:** Next.js | React 19 | TypeScript | Node.js
-
-**UI/UX:** Tailwind CSS | Shadcn UI | Framer Motion | Figma
-
-**State & Data:** PostgreSQL | Prisma | Supabase | Neon
-
-**Infra:** Vercel | Docker | GitHub Actions | CI/CD | Linux
-
-**Tooling:** Neovim(LazyVim) | Biome (Lint/Format) | Playwright | Vitest
-
----
-
-## 🧠 Engineering Principles
-
-1. The 100ms Rule: If an interaction takes longer than 100ms, it needs a transition or an optimization.
-2. Type Safety is Documentation: If it isn`t typed in TypeScript, it's a liability.
-3. Ship Lean: Prefer Biome over ESLint for speed, prefer RSC over Client Components for weight.
-
-## 📡 Currently
-
-Open to full-time frontend or full-stack roles with EU/US companies.  
-Remote or hybrid.
-
-Thank you for visiting my profile! Feel free to reach out if you have any questions or want to collaborate on a project. Let`s connect! 🌍
+## 📡 Right now
+ 
+Open to full-time frontend roles — remote or Skopje. The fastest way to reach
+me is through [lazarkapsarov.com](https://www.lazarkapsarov.com) or LinkedIn.
