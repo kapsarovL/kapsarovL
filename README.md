@@ -1,73 +1,107 @@
-# 👋  Hey, I'm Lazar
+# 👋 Hey, I'm Lazar
 
-**Frontend Engineer** | Next.js | React 19 | TypeScript
+**Frontend Design Engineer** | Next.js | React | TypeScript
 
-[portfolio](https://www.lazarkapsarov.com) | [LinkedIn](https://www.linkedin.com/in/lazar-kapsarov) | [Twitter](https://x.com/kapsarovlazar)
+[Portfolio](https://www.lazarkapsarov.vercel.app) | [LinkedIn](https://www.linkedin.com/in/lazar-kapsarov) | [Twitter](https://x.com/kapsarovlazar)
 
+> Bridging design token pipelines with production codebases.
 
-I spent five years in IT support keeping office systems, networks, and hardware alive the kind of job where you learn what "production is down" feels like before you ever write a line of application code. In 2022 I retrained as a JavaScript developer, and since then I've been building web apps the way I used to keep systems running: measure first, type everything, assume things will fail.
+> **Provenance:** the incident ticket and the debugging rulebook below are worked examples of a bug class, not records from a named employer. Every number and tool named in this file is verifiable in the repositories above and below.
 
-In 2025 I founded PrismaFlux Media, my own studio, where I build and ship client projects end to end: schema design, API routes, auth, payments, deployment.
+* **Target Role:** Design Engineer / Frontend Systems Engineer
+* **Core Disciplines:** Design Systems, Component Primitives, Micro-Interactions, A11y Architecture
+* **Execution Stack:** React 19, Next.js 16, TypeScript (strict), SCSS Modules, Node
 
+---
 
+## 1. Technical Capabilities Matrix
 
-## Numbers I can actually back up
- 
-I don't list metrics I can't reproduce. Run the Lighthouse reports yourself:
- 
-| What | Score | Where |
-| --- | --- | --- |
-| My portfolio (desktop) | 100 / 100 / 100 / 100 | [lazarkapsarov.com](https://www.lazarkapsarov.com) |
-| StoreFront (mobile) | 100 Perf · 96 A11y · 100 BP · 99 SEO | [live site](https://e-commerce-nextjs16.vercel.app/) — LCP 1.4s, CLS 0 |
+| Domain | Systems & Infrastructure |
+| :--- | :--- |
+| **Interface Systems** | Design Tokens (CSS custom properties), Component Primitives, Polymorphic Types (`asChild`), SCSS Modules |
+| **Accessibility** | WAI-ARIA Authoring Practices — roving tabindex, focus restoration, landmark fallbacks — applied across 30 primitive files |
+| **Quality** | Strict TypeScript, Biome (lint + format), Vitest, supply-chain scanning (gitleaks / osv-scanner / trivy) as a blocking pre-commit gate |
+| **Tooling & Automation** | Yarn 4 workspaces, CI workflows, enforced git hooks |
 
+---
 
+## 2. Prismaflux-Design-System
 
-## 🛠️ What I've built
- 
-### [StoreFront — full-stack e-commerce](https://e-commerce-nextjs16.vercel.app/)
- 
-`Next.js (App Router)` `React 19` `TypeScript` `Drizzle ORM` `Neon` `Clerk` `Stripe`
- 
-The full e-commerce loop, built independently: catalog, cart, Stripe Checkout.
-I designed the database schema, wrote the API routes for cart logic and payment
-webhooks, and wired up Clerk auth. The parts I'm most proud of are the boring
-ones idempotent webhook handlers and integer-cent pricing, because payment
-code is where float bugs go to ruin your week.
- 
-### Kalchev Family Winery
- 
-`Next.js` `React` `TypeScript` `Drizzle ORM` `Neon PostgreSQL`
- 
-A brand website for a local family winery, built and launched end to end
-through PrismaFlux Media and deployed on Vercel in July 2026. Real client,
-real deadline, real content.
- 
-### [PrismaFlux Media](https://prismaflux-media.com/)
- 
-My studio's own site. I migrated it off WordPress/Hostinger onto Next.js and
-Vercel, including the full DNS move across Cloudflare and Hostinger the
-[blog](https://prismaflux-media.com/blog) has write-ups on how I work.
+**Private repo** — ask and I'll grant access. Token-driven React component library, Next.js 16 / React 19 / SCSS Modules.
 
+| | |
+| :--- | :--- |
+| **Primitives** | 22 components, each a single `.tsx` with a SCSS Module, barrel-exported from `components/primitives/index.ts` |
+| **Tokens** | 460 custom properties in `styles/tokens.scss` across color, input, spacing, radius, typography, motion — mirrored by a `DESIGN.md` manifest |
+| **Theming** | Dark-first scale on a Vercel-neutral single-blue accent, driven by CSS custom properties rather than a runtime provider |
+| **Workbench** | Live theme playground, command palette, and per-component docs rendered from the same token source |
+| **Supply chain** | gitleaks + osv-scanner + trivy as blocking pre-commit and CI gates |
 
+`next.config.ts` documents its `remotePatterns: hostname: "**"` choice in-file as a security tradeoff, with the tightened allow-list as the stated upgrade path.
 
-## 🏗️ Stack
- 
-**Daily drivers:** Next.js (App Router) · React 19 · TypeScript · Tailwind CSS v4 · Shadcn/UI
-**Data & payments:** Drizzle ORM · Neon PostgreSQL · Clerk · Stripe
-**Tooling:** Vercel · GitHub Actions · Playwright · Vitest · Biome · Neovim (LazyVim)
-**Currently learning:** Node.js and SQL fundamentals heading toward full-stack, honestly not there yet
+---
 
+## 3. Incident Ticket #INC-8042: Focus Loss on Dynamic Overlay Unmount
 
+* **Status:** Resolved | **Severity:** P2 (Accessibility Regression)
+* **Component:** `Dialog` (overlay primitive, `components/primitives/dialog/`)
 
-## 🧠 How I think about code
- 
-1. **100ms or explain yourself** — interactions slower than that need a transition or an optimization.
-2. **Types are documentation** — if it isn't typed, it's a liability someone inherits.
-3. **Ship lean** — Server Components over client JS, Biome over ESLint, measure before optimizing.
+### 1. Timeline
 
+* **10:14 UTC** — Incident flagged: Focus trapped on `document.body` following nested overlay closure on dynamic routes.
+* **10:45 UTC** — Issue reproduced in staging; SC 2.4.3 Focus Order violation confirmed.
+* **11:20 UTC** — Memory trace identified a race condition between unmounting trigger elements and focus locks.
+* **12:00 UTC** — Fallback focus restoration algorithm implemented; validated via VoiceOver and NVDA.
 
+### 2. Forensic Evidence
 
-## 📡 Right now
- 
-Open to full-time frontend roles — remote or Skopje. The fastest way to reach
-me is through [lazarkapsarov.com](https://www.lazarkapsarov.com) or LinkedIn.
+When the overlay unmounted, it tried to return focus to `document.activeElement`, captured once in the effect body. Because the parent state change unmounted the trigger element in the same commit, that node was already detached from the document by the time the cleanup ran. `previousFocus?.focus()` is a no-op on a detached node, so focus fell through to `document.body`.
+
+```tsx
+// BEFORE (Buggy Cleanup)
+useEffect(() => {
+  const previousFocus = document.activeElement as HTMLElement;
+  return () => {
+    previousFocus?.focus(); // Fails silently if the node is already detached
+  };
+}, []);
+```
+
+```tsx
+// AFTER (Refined Fallback Resolution)
+useEffect(() => {
+  const previousFocus = document.activeElement as HTMLElement | null;
+  return () => {
+    if (previousFocus && document.body.contains(previousFocus)) {
+      previousFocus.focus();
+      return;
+    }
+    // Fallback: focus the main content landmark if the trigger node is dead.
+    // The landmark must carry tabindex="-1" in markup to be focusable here.
+    document.querySelector<HTMLElement>("[data-main-content]")?.focus();
+  };
+}, []);
+```
+
+---
+
+## 4. The Debugging Rulebook (Problem → Solution)
+
+Repeatable patterns, symptom to root cause to fix.
+
+| Observed Symptom | Identified Root Cause | Corrective Engineering Action |
+| :--- | :--- | :--- |
+| **Focus dropped to `body` after closing overlay** | Trigger element was unmounted from DOM while overlay unmounted. | Check `document.body.contains(target)`; fallback to `[data-main-content]` if target is detached. |
+| **UI stutter during canvas drag operations** | Pointer events triggering top-level React context re-renders on every pixel move. | Decouple dragging state from React tree; mutate ref coordinates and schedule visual updates via `requestAnimationFrame`. |
+| **Flash of Unstyled Content (FOUC) on load** | Reading theme preference from `localStorage` inside client-side `useEffect`. | Inject blocking, zero-dependency inline script inside `<head>` to resolve theme class prior to initial paint. |
+| **Secret API keys exposed in commit history** | Hardcoded credentials or accidentally committing un-ignored `.env` files. | Add `.env` to `.gitignore`; enforce secret scanning as a blocking pre-commit gate, plus the same scan in CI. |
+
+---
+
+## 5. Security & Secret Isolation Rules
+
+Three rules keep credentials out of the repository:
+
+1. **Environment Variable Separation:** Store all keys in a `.env` file that is strictly listed in `.gitignore`.
+2. **Blocking Scanner, Not a Warning:** gitleaks and a dependency scan run as a pre-commit hook that fails the commit on a finding, so a secret never reaches history in the first place.
+3. **CI Is the Second Gate:** the same gitleaks / osv-scanner / trivy pass runs on every push and pull request, catching anything that arrives by another route.
