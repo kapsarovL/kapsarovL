@@ -4,7 +4,7 @@
 
 [![link](https://www.readmecodegen.com/api/social-icon?name=link&size=24&bg=%23f3f4f6&link=https%3A%2F%2Fwww.lazarkapsarov.vercel.app&color=%23000000)](https://www.lazarkapsarov.vercel.app) | [![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=24&theme=dark&textAlignment=horizontal&color=%23ffffff&showText=true&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flazar-kapsarov)](https://www.linkedin.com/in/lazar-kapsarov) | [![X Badge](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=flat)](https://x.com/kapsarovlazar)
 
->Bridging design token pipelines with production codebases.
+> Bridging design token pipelines with production codebases, engineering sub-16ms interface mechanics, and building resilient web infrastructure.
 
 >**Provenance:** the incident ticket and the debugging rulebook below are worked examples of a bug class, not records from a named employer. Every number and tool named in this file is verifiable in the repositories above and below.
 
