@@ -19,10 +19,10 @@
 ## Highlights
 
 - Built a Next.js 16 / React 19 component library from scratch: **22 TS primitives** backed by **460 design tokens**, strict typing, barrel exports, SCSS Modules.
-- Security & quality first: **Biome + Vitest**; **gitleaks / osv-scanner / trivy run as blocking** pre-commit + CI gates so secrets never enter history — no findings to date.
+- Security & quality first: **Biome + Vitest**; **gitleaks / osv-scanner / trivy run as blocking** pre-commit + CI gates so secrets never enter history no findings to date.
 - Accessibility is systemic: WAI-ARIA roving focus, focus restoration, landmark fallbacks across primitives; fixed an SC 2.4.3 focus-loss regression on overlay unmount (see Ticket #INC-8042).
 - Infrastructure-minded: hardened devcontainer (**read-only rootfs, `cap-drop=ALL`, no-new-privileges**) with pinned + sha256-verified tool installs (Node, cosign, sops, trivy, gitleaks).
-- Provenance note: incident ticket & debugging examples are **worked artifacts**, not named-employer records — every number/tool cited is verifiable.
+- Provenance note: incident ticket & debugging examples are **worked artifacts**, not named-employer records every number/tool cited is verifiable.
 
 ---
 
