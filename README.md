@@ -1,16 +1,18 @@
-# 👋 Hey, I'm Lazar
+# Hey, I'm Lazar
 
 **Frontend Design Engineer** | Next.js | React | TypeScript
 
-[Portfolio](https://www.lazarkapsarov.vercel.app) | [LinkedIn](https://www.linkedin.com/in/lazar-kapsarov) | [Twitter](https://x.com/kapsarovlazar)
+[![link](https://www.readmecodegen.com/api/social-icon?name=link&size=24&bg=%23f3f4f6&link=https%3A%2F%2Fwww.lazarkapsarov.vercel.app&color=%23000000)](https://www.lazarkapsarov.vercel.app) | [![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=24&theme=dark&textAlignment=horizontal&color=%23ffffff&showText=true&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flazar-kapsarov)](https://www.linkedin.com/in/lazar-kapsarov) | [![X Badge](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=flat)](https://x.com/kapsarovlazar)
 
-> Bridging design token pipelines with production codebases.
+>Bridging design token pipelines with production codebases.
 
-> **Provenance:** the incident ticket and the debugging rulebook below are worked examples of a bug class, not records from a named employer. Every number and tool named in this file is verifiable in the repositories above and below.
+>**Provenance:** the incident ticket and the debugging rulebook below are worked examples of a bug class, not records from a named employer. Every number and tool named in this file is verifiable in the repositories above and below.
+
+---
 
 * **Target Role:** Design Engineer / Frontend Systems Engineer
 * **Core Disciplines:** Design Systems, Component Primitives, Micro-Interactions, A11y Architecture
-* **Execution Stack:** React 19, Next.js 16, TypeScript (strict), SCSS Modules, Node
+* **Execution Stack:**  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)  ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat) ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)  ![Sass Badge](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=flat)  ![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat)  ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)  ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)  ![Neon Badge](https://img.shields.io/badge/Neon-34D59A?logo=neon&logoColor=fff&style=flat)  ![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=flat)  ![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat)  ![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat)  ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)  ![Vitest Badge](https://img.shields.io/badge/Vitest-00FF74?logo=vitest&logoColor=000&style=flat)  ![Babel Badge](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=000&style=flat)  ![Biome Badge](https://img.shields.io/badge/Biome-60A5FA?logo=biome&logoColor=fff&style=flat)  ![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat)  ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 
 ---
 
@@ -19,7 +21,7 @@
 | Domain | Systems & Infrastructure |
 | :--- | :--- |
 | **Interface Systems** | Design Tokens (CSS custom properties), Component Primitives, Polymorphic Types (`asChild`), SCSS Modules |
-| **Accessibility** | WAI-ARIA Authoring Practices — roving tabindex, focus restoration, landmark fallbacks — applied across 30 primitive files |
+| **Accessibility** | WAI-ARIA Authoring Practices roving tabindex, focus restoration, landmark fallbacks applied across 30 primitive files |
 | **Quality** | Strict TypeScript, Biome (lint + format), Vitest, supply-chain scanning (gitleaks / osv-scanner / trivy) as a blocking pre-commit gate |
 | **Tooling & Automation** | Yarn 4 workspaces, CI workflows, enforced git hooks |
 
@@ -32,7 +34,7 @@
 | | |
 | :--- | :--- |
 | **Primitives** | 22 components, each a single `.tsx` with a SCSS Module, barrel-exported from `components/primitives/index.ts` |
-| **Tokens** | 460 custom properties in `styles/tokens.scss` across color, input, spacing, radius, typography, motion — mirrored by a `DESIGN.md` manifest |
+| **Tokens** | 460 custom properties in `styles/tokens.scss` across color, input, spacing, radius, typography, motion mirrored by a `DESIGN.md` manifest |
 | **Theming** | Dark-first scale on a Vercel-neutral single-blue accent, driven by CSS custom properties rather than a runtime provider |
 | **Workbench** | Live theme playground, command palette, and per-component docs rendered from the same token source |
 | **Supply chain** | gitleaks + osv-scanner + trivy as blocking pre-commit and CI gates |
