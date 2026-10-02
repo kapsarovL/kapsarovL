@@ -49,7 +49,6 @@
 | **Workbench** | Live theme playground, command palette, and per-component docs rendered from the same token source |
 | **Supply chain** | gitleaks + osv-scanner + trivy as blocking pre-commit and CI gates |
 
-`next.config.ts` documents its `remotePatterns: hostname: "**"` choice in-file as a security tradeoff, with the tightened allow-list as the stated upgrade path.
 
 ---
 
